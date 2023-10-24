@@ -74,4 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Large asset directory w/ unused files
-ParagonWraith/*
+Content/ParagonWraith/*
